@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Archive manager and file browser for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Browse files, open ZIP archives, extract and create archives"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Archiver"
+    },
+    {
+      "name": "perm_storage_reason",
+      "value": "Read and write the public Download and Documents folders"
+    }
+  ]
+}
